@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "CarpentryConnect Johannesburg 2018"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "CarpentryConnect Johannesburg 2018 - Social Sciences Data Carpentry"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Birchwood Hotel & Conference Centre, Johannesburg"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
