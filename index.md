@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "UKZN, Edgewood Campus"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Edgewood Campus, Pinetown"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Data Carpentry at UKZN, Westville Campus"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Seminar Room, H-Block (Physics), Westville Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-29.827382, 30.837383"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-29.817262, 30.943994"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "4 & 5 December, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -175,7 +175,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/dlSkLut0xZVcmbmz1">https://goo.gl/forms/dlSkLut0xZVcmbmz1</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/dlSkLut0xZVcmbmz1">https://goo.gl/forms/dlSkLut0xZVcmbmz1</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by a registered participant who does not show up to the workshop without giving the workshop organisers at least 5 days notice.
 </p>
 
 <hr/>
