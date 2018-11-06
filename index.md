@@ -13,7 +13,7 @@ enddate: 2018-12-05        # machine-readable end date for the workshop in YYYY-
 instructor: ["TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["tirok@ukzn.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:    http://pad.software-carpentry.org/2018-12-04-UKZN-EDW         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:    http://pad.software-carpentry.org/2018-12-04-UKZN-DC         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -136,7 +136,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
+  accessible to everybody. Please get in touch (contact details below) if we can
+  help making learning easier for you.
+  <!--
   The workshop organizers have checked that:
 </p>
 <ul>
@@ -149,6 +151,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
+-->
 
 {% comment %}
   CONTACT EMAIL ADDRESS
@@ -175,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/dlSkLut0xZVcmbmz1">https://goo.gl/forms/dlSkLut0xZVcmbmz1</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by a registered participant who does not show up to the workshop without giving the workshop organisers at least 5 days notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/h5mKuHAhAn9AzOUP2">https://goo.gl/forms/h5mKuHAhAn9AzOUP2</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by a registered participant who does not show up to the workshop without giving the workshop organisers at least 5 days notice.
 </p>
 
 <hr/>
