@@ -481,9 +481,10 @@ If you need a spreadsheet program, there are a few other options, like OpenOffic
 
 
 
-<div id="r"> <!-- Start of 'R' section. -->
-  <h3>R</h3>
+<div id="r"> <!-- Start of 'R' section. --> 
 <!--
+  <h3>R</h3>
+
   <p>
     <a href="http://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
@@ -530,5 +531,7 @@ If you need a spreadsheet program, there are a few other options, like OpenOffic
       </p>
     </div>
   </div>
-</div> --> <!-- End of 'R' section. -->
+</div> 
+--> 
+<!-- End of 'R' section. -->
 
